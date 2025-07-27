@@ -16,7 +16,7 @@
 
 ### 💼 current role
 
-- 💻 software development engineer @ **SDE**, pune  
+- 💻 software development engineer @ **BNY**, pune  
 - 👨‍💻 building scalable rest apis using **java spring boot**  
 - 🔁 leading framework & java 21 migration projects  
 - ⚡ angular + spring boot full-stack contributor  
@@ -26,9 +26,9 @@
 
 ### 🧠 education
 
-- 🎓 **b.tech, computer science & engineering**  
-  visvesvaraya national institute of technology (vnit), nagpur  
-  `2019 – 2023`, **cpi: 7.58 / 10**
+- 🎓 **B.tech CSE**,
+  VNIT Nagpur
+  `2019 – 2023`
 
 ---
 
