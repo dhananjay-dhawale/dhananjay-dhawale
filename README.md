@@ -1,5 +1,5 @@
-<h1 align="center">hey 👋, i'm dhananjay</h1>
-<h3 align="center">software engineer | java spring boot developer | 5⭐ on codechef | tech enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Dhananjay</h1>
+<h3 align="center">Software Engineer | Java Spring Boot Developer | 5⭐ on Codechef | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:dhananjaydhawle2000@gmail.com">📧 Email</a> •
@@ -14,40 +14,40 @@
 
 ---
 
-### 💼 current role
+### 💼 Current Role
 
-- 💻 software development engineer @ **BNY**, pune  
-- 👨‍💻 building scalable rest apis using **java spring boot**  
-- 🔁 leading framework & java 21 migration projects  
-- ⚡ angular + spring boot full-stack contributor  
-- 🧪 improving accessibility & performance in enterprise apps
+- 💻 Software Development Engineer @ **BNY Mellon**, Pune
+- 👨‍💻 Building scalable REST APIs using **Java Spring Boot**
+- 🔁 Leading framework & Java 21 migration projects
+- ⚡ Angular + Spring Boot Full-Stack Contributor
+- 🧪 Improving accessibility & performance in enterprise applications
 
 ---
 
-### 🧠 education
+### 🧠 Education
 
-- 🎓 **B.tech CSE**,
+- 🎓 **B.Tech in Computer Science Engineering**,
   VNIT Nagpur
   `2019 – 2023`
 
 ---
 
-### 🚀 tech stack
+### 🚀 Tech Stack
 
-#### 💡 languages  
+#### 💡 Languages
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![cpp](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![sql](https://img.shields.io/badge/sql-%23007396.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### ⚙️ frameworks & tools  
+#### ⚙️ Frameworks & Tools
 ![spring boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![junit](https://img.shields.io/badge/junit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-#### 🛢 databases & devops  
+#### 🛢 Databases & DevOps
 ![mysql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -55,36 +55,36 @@
 
 ---
 
-### 🧩 featured projects
+### 🧩 Featured Projects
 
-- 🌐 [**portfolio website**](https://dhananjay-dhawale.github.io/Portfolio/)  
-  a minimal and responsive portfolio to showcase your projects and skills
+- 🌐 [**Portfolio Website**](https://dhananjay-dhawale.github.io/Portfolio/)
+  A minimal and responsive portfolio to showcase projects and skills.
 
-- 📊 [**chess heat map**](https://github.com/dhananjay-dhawale/chess-heatmap)  
-  full-stack spring boot + angular app visualizing lichess data in a calendar heatmap
-
----
-
-### 🏆 achievements
-
-- 🏅 **5⭐ (2098)** on codechef, **expert (1617)** on codeforces, **guardian (2293)** on leetcode  
-- 🥇 solved **4000+ dsa problems**, **325+ contests**, **404-day leetcode streak**  
-- 🏆 institute **rank 1** on gfg, **rank 18** on hackerrank  
-- 🎖️ multiple **top 100 world ranks** in leetcode/codechef contests  
-- 🧑‍🏫 mentored students in dsa across multiple colleges, recommended by professors
+- 📊 [**Chess Heat Map**](https://github.com/dhananjay-dhawale/chess-heatmap)
+  Full-stack Spring Boot + Angular app visualizing Lichess data in a calendar heatmap.
 
 ---
 
-### 🎯 extracurriculars
+### 🏆 Achievements
 
-- 🚴 president, cyclists of vnit  
-- 🎹 member, chess & photography club  
-- 📝 writing blogs on medium & threads on x  
-- 🎶 loves classical music, anime, ai/ml, piano, reading, and badminton
+- 🏅 Achieved **5⭐ (2098)** on Codechef, **Expert (1617)** on Codeforces, and **Guardian (2293)** on LeetCode.
+- 🥇 Solved **4000+ DSA problems**, participated in **325+ contests**, and maintained a **404-day LeetCode streak**.
+- 🏆 Achieved Institute **Rank 1** on GFG and **Rank 18** on Hackerrank.
+- 🎖️ Secured multiple **Top 100 world ranks** in LeetCode/Codechef contests.
+- 🧑‍🏫 Mentored students in DSA across multiple colleges, with personal recommendations from professors.
 
 ---
 
-### 📈 github stats
+### 🎯 Extracurricular Activities
+
+- 🚴 President, Cyclists of VNIT
+- 🎹 Member, Chess & Photography Club
+- 📝 Writing blogs on Medium & threads on X
+- 🎶 Loves classical music, anime, AI/ML, piano, reading, and badminton.
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhananjay-dhawale&show_icons=true&theme=radical" />
@@ -93,7 +93,7 @@
 
 ---
 
-### 🔥 streak & activity graph
+### 🔥 Streak & Activity Graph
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dhananjay-dhawale&theme=radical&hide_border=true" />
@@ -102,4 +102,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhananjay-dhawale&theme=react-dark" />
 </p>
-
