@@ -16,7 +16,7 @@
 
 ### 💼 Current Role
 
-- 💻 Software Development Engineer @ **BNY Mellon**, Pune
+- 💻 Software Development Engineer @ **BNY**, Pune
 - 👨‍💻 Building scalable REST APIs using **Java Spring Boot**
 - 🔁 Leading framework & Java 21 migration projects
 - ⚡ Angular + Spring Boot Full-Stack Contributor
@@ -57,7 +57,7 @@
 
 ### 🧩 Featured Projects
 
-- 🌐 [**Portfolio Website**](https://dhananjay-dhawale.github.io/Portfolio/)
+- 🌐 [**Portfolio Website**](https://dhananjay-dhawale.github.io/astro-portfolio/)
   A minimal and responsive portfolio to showcase projects and skills.
 
 - 📊 [**Chess Heat Map**](https://github.com/dhananjay-dhawale/chess-heatmap)
