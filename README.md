@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:dhananjaydhawle2000@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/dhananjay-dhawale-829659198/">💼 LinkedIn</a> •
-  <a href="https://dhananjay-dhawale.github.io/Portfolio/">🌐 Portfolio</a> •
+  <a href="https://dhananjay-dhawale.github.io/astro-portfolio/">🌐 Portfolio</a> •
   <a href="https://leetcode.com/u/piudpie/">🧠 LeetCode</a> •
   <a href="https://codeforces.com/profile/djay24">⚔️ Codeforces</a> •
   <a href="https://www.codechef.com/users/piudpie">🔥 Codechef</a> •
@@ -57,7 +57,7 @@
 
 ### 🧩 Featured Projects
 
-- 🌐 [**Portfolio Website**](https://dhananjay-dhawale.github.io/astro-portfolio/)
+- 🌐 [**Portfolio Website**](https://dhananjay-dhawale.github.io/Portfolio/)
   A minimal and responsive portfolio to showcase projects and skills.
 
 - 📊 [**Chess Heat Map**](https://github.com/dhananjay-dhawale/chess-heatmap)
