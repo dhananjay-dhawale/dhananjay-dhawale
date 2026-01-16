@@ -60,7 +60,7 @@
 - 🌐 [**Portfolio Website**](https://dhananjay-dhawale.github.io/Portfolio/)
   A minimal and responsive portfolio to showcase projects and skills.
 
-- 📊 [**Chess Heat Map**](https://github.com/dhananjay-dhawale/chess-heatmap)
+- 📊 [**Chess Heat Map**](https://chess-analytics-frontend.onrender.com/)
   Full-stack Spring Boot + Angular app visualizing Lichess data in a calendar heatmap.
 
 ---
